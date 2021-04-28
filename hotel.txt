@@ -1,0 +1,13 @@
+welcome to the prominent hotel
+
+hotel:-menu
+       gujrati
+       panjabi
+       sauth
+      
+room:-ac room
+      non ac room
+      
+      
+hall:-banquet hall :-1
+      banquet hall :-2
